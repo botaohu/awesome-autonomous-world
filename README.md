@@ -62,7 +62,7 @@
 
 - [OPCraft](https://opcraft.mud.dev/) - by Lattice - the showcase project for MUD engine. 
 
-### Important Person to Follow 
+### People To Follow
 
 - [Brain Gu (@gubsheep)](https://twitter.com/gubsheep) - Creator of Dark Forest. Founder of 0xPARC.
 - [Ludens (@l_udens)](https://twitter.com/l_udens) - Founder of Lattice.xyz. 
