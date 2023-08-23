@@ -43,6 +43,8 @@
 
 - [MUD - The Missing Ethereum Framework | Lattice @ AW Residency 2022
 ](https://www.youtube.com/watch?v=Gr4icwR0msc) 
+- [MUD - An Engine for Autonomous Worlds | Lattice @ Devcon VI](https://www.youtube.com/watch?v=j-_Zf8o5Wlo)
+- [MUD in Practice - How we built OPCraft | Lattice @ Devcon VI](https://www.youtube.com/watch?v=mv3jA4USZtg)
 
 ## Companies and Organizations
 
